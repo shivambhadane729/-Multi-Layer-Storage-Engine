@@ -1,0 +1,12 @@
+storage_engine
+*.exe
+*.o
+*.log
+*.txt
+build_errors.txt
+benchmark_results.txt
+error.log
+err.log
+preprocessed.cpp
+.vscode/
+data/records.bin
